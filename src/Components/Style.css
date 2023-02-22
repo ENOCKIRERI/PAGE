@@ -1,0 +1,87 @@
+body{
+    background-image:url(/src/background-home-desktop.jpg);
+    background-size: ;
+}
+.nav{
+    font-family: sans-serif;
+    display: flex;
+   align-items: center;
+   justify-content: space-between;
+   
+   
+}
+.nav ul{
+    color: white;
+    text-decoration: none;
+    list-style: none;
+    background-color:  rgb(22, 20, 20);
+    padding: 20px;
+    
+    
+    
+    
+}
+.nav ul li{
+    display: inline;
+    align-items: centre;
+   font-family: sans-serif;
+   margin: 10px;
+   padding:10px;
+
+}
+.logo{
+    color: wheat;
+    margin: 20px;
+}
+.nav ul{
+    opacity: 0.6;
+}
+.nav ul :hover{
+    color: aqua;
+    transition: 2;
+}
+.wrapper{
+    color: white;
+    margin-top: 200px;
+    height: 400px;
+margin-left: 50px;
+font-family: sans-serif;
+
+}
+.box{
+    font-family: sans-serif;
+}
+.box h4{
+    color:white;
+
+}
+.box h1{
+    color:wheat;
+    font-size: 50px;
+}
+.box p{
+color:wheat;
+font-family: sans-serif;
+gap: 2px;
+}
+.box2{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-family: 'Times New Roman', Times, serif;
+  
+
+}
+.box2 h3{
+    color:black;
+    background-color: beige;
+    padding: 80px;
+    border-radius: 200px;
+   width: 20px;
+align-items: center;
+justify-content: center;
+    margin-right: 50px;
+    display: flex;
+margin-bottom:80px ;
+   
+}
